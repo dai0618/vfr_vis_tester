@@ -1,5 +1,5 @@
 # vfr_vis_tester
 
-'''python
+'''Python
 pip install -r requirements.txt
 '''
