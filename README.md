@@ -15,4 +15,5 @@ python visual_tester.py
 
 ## osc情報
 ip ```127.0.0.1```
+
 port ```6666```
